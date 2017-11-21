@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "497198760093",
+    "firebase_url": "https://task1-1511128941918.firebaseio.com",
+    "project_id": "task1-1511128941918",
+    "storage_bucket": "task1-1511128941918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497198760093:android:3b259f8106b922b1",
+        "android_client_info": {
+          "package_name": "com.methaaq.task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497198760093-akf342ijgadie9a3gme7lqtllc6ravcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2sXK0FCBgRvnimjzXWpqpcyZN00npnss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
